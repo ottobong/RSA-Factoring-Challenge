@@ -1,2 +1,1 @@
-# RSA-Factoring-Challenge
-RSA security project
+# RSA Factoring Challenge
